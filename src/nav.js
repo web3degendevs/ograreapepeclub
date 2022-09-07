@@ -19,7 +19,7 @@ import {
   Stack,
 } from '@chakra-ui/react';
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons';
-import logo from "./images/logo.png";
+import logo from "./images/logo-min.png";
 
 const Links = [
 
@@ -37,7 +37,7 @@ const Links = [
 ];
 
 
-const NavLink = ({ children }: { children: ReactNode }) => (
+const NavLink = ({ children }) => (
   <Link
     px={2}
     py={1}

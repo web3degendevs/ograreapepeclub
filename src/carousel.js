@@ -23,7 +23,7 @@ import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
 import { MdLocalShipping } from 'react-icons/md';
 import { ethers, BigNumber } from 'ethers';
 import { useState } from 'react';
-import box from "./images/gg.gif";
+import box from "./images/finalGif.gif";
 
 
 
